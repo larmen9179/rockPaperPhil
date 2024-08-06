@@ -1,0 +1,21 @@
+[X] - Win Ending
+[X] - Lose Ending
+[X] - Fix Computer Rock Size
+[X] - Fix Computer Scissor Size
+[X] - Fix Computer Paper Size
+[X] - Text Intro (After Main Menu/Before Main Game)
+[X] - Secret Event when Phil is pressed during main game
+[X] - Change font
+[X] - Lower Bitrate for all audio
+[X] - Sounds
+    [X] - Main Menu Music
+    [X] - Main Game background ambience?
+    [X] - Round Win sound (For player)
+    [X] - Roudn Tie sound
+    [X] - Round Lose sound
+    [X] - Audio for Win Ending
+    [X] - Audio for Lose Ending
+    [X] - Speech for intro
+    [X] - Sound for Player playing their move animation
+    [X] - Sound for CPU playing their move animation
+    [X] - Sound for Secret Event audio
